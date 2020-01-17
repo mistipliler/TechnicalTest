@@ -1,0 +1,11 @@
+/Users/muratistipliler/Projects/TechnicalTest/TechnicalTest/bin/Debug/netcoreapp3.0/Question1
+/Users/muratistipliler/Projects/TechnicalTest/TechnicalTest/bin/Debug/netcoreapp3.0/Question1.deps.json
+/Users/muratistipliler/Projects/TechnicalTest/TechnicalTest/bin/Debug/netcoreapp3.0/Question1.runtimeconfig.json
+/Users/muratistipliler/Projects/TechnicalTest/TechnicalTest/bin/Debug/netcoreapp3.0/Question1.runtimeconfig.dev.json
+/Users/muratistipliler/Projects/TechnicalTest/TechnicalTest/bin/Debug/netcoreapp3.0/Question1.dll
+/Users/muratistipliler/Projects/TechnicalTest/TechnicalTest/bin/Debug/netcoreapp3.0/Question1.pdb
+/Users/muratistipliler/Projects/TechnicalTest/TechnicalTest/obj/Debug/netcoreapp3.0/Question1.csprojAssemblyReference.cache
+/Users/muratistipliler/Projects/TechnicalTest/TechnicalTest/obj/Debug/netcoreapp3.0/Question1.AssemblyInfoInputs.cache
+/Users/muratistipliler/Projects/TechnicalTest/TechnicalTest/obj/Debug/netcoreapp3.0/Question1.AssemblyInfo.cs
+/Users/muratistipliler/Projects/TechnicalTest/TechnicalTest/obj/Debug/netcoreapp3.0/Question1.dll
+/Users/muratistipliler/Projects/TechnicalTest/TechnicalTest/obj/Debug/netcoreapp3.0/Question1.pdb
